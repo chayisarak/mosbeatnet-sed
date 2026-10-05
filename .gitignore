@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large/local data
+data/
+
+# Generated outputs
+output/
+output_backup/
+
+# Backups
+*_backup/
+*.zip
+
+# Models
+*.pth
+*.pt
+*.ckpt
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
